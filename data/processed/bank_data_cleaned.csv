@@ -1,0 +1,256 @@
+Customer_ID,City,Account_Type,Employment_Type,Preferred_Channel,Age,Monthly_Income,Tenure_Years,Monthly_Transactions,Branch_Visits,Last_Review_Date,Avg_Monthly_Balance,Age_Group,Balance_Income_Ratio,Tenure_Category,Transaction_Category
+C1244,Mumbai,Current,Salaried,Branch,38,33000.0,2.2,27.0,2,2025-05-13,26500,36-45,0.803030303030303,2-5 years,Medium
+C1103,Bengaluru,Current,Salaried,Net_Banking,23,41500.0,,14.0,2,2025-08-17,44100,18-25,1.0626506024096385,,Low
+C1210,Lucknow,Savings,Self_Employed,Mobile_App,52,23500.0,1.0,31.0,1,2026-02-24,6400,46-55,0.2723404255319149,Up to 2 years,High
+C1179,Bengaluru,Salary,Self_Employed,Net_Banking,30,100500.0,12.5,17.0,4,2025-07-15,116700,26-35,1.1611940298507464,Above 10 years,Medium
+C1197,Mumbai,Joint,Salaried,Mobile_App,35,38500.0,3.7,33.0,0,2025-05-31,38000,26-35,0.987012987012987,2-5 years,High
+C1202,Delhi,Current,Salaried,Mobile_App,33,60500.0,2.3,19.0,1,2026-07-07,47200,26-35,0.7801652892561983,2-5 years,Medium
+C1021,Mumbai,Salary,,Mobile_App,58,17000.0,7.2,35.0,3,2026-09-24,2000,Above 55,0.11764705882352941,5-10 years,High
+C1249,Mumbai,Savings,Salaried,Branch,38,27000.0,2.9,11.0,1,2026-08-03,46700,36-45,1.7296296296296296,2-5 years,Low
+C1097,Delhi,Salary,Salaried,Mobile_App,36,39500.0,3.1,27.0,5,2025-08-04,6300,36-45,0.15949367088607594,2-5 years,Medium
+C1134,Ghaziabad,Current,Student,Branch,212,55500.0,4.1,21.0,1,2025-04-08,71100,,1.281081081081081,2-5 years,Medium
+C1128,Bengaluru,Savings,Self_Employed,Branch,43,48500.0,2.2,23.0,4,2025-05-17,19900,36-45,0.41030927835051545,2-5 years,Medium
+C1106,Bengaluru,Savings,Salaried,Net_Banking,25,24500.0,3.6,24.0,2,2026-01-09,38300,18-25,1.563265306122449,2-5 years,Medium
+C1062,Bengaluru,Joint,Salaried,Mobile_App,33,49500.0,6.2,41.0,4,2026-03-29,61000,26-35,1.2323232323232323,5-10 years,High
+C1078,Lucknow,Savings,Salaried,Net_Banking,39,52000.0,3.5,43.0,1,2025-09-01,59600,36-45,1.146153846153846,2-5 years,High
+C1063,Bengaluru,Salary,Salaried,Mobile_App,22,47500.0,4.5,33.0,3,2026-09-30,50500,18-25,1.063157894736842,2-5 years,High
+C1001,Delhi,Savings,,Mobile_App,59,28000.0,7.5,31.0,0,2026-01-17,22400,Above 55,0.8,5-10 years,High
+C1196,Lucknow,Current,Salaried,Net_Banking,33,,3.1,22.0,1,2026-01-28,81100,26-35,,2-5 years,Medium
+C1065,Delhi,Salary,Self_Employed,ATM,35,36500.0,2.5,25.0,3,2026-08-23,63000,26-35,1.726027397260274,2-5 years,Medium
+C1181,Lucknow,Savings,Salaried,Mobile_App,29,48500.0,7.2,37.0,1,2026-11-15,79900,26-35,1.647422680412371,5-10 years,High
+C1088,Mumbai,Savings,Salaried,Mobile_App,29,48500.0,11.5,18.0,2,2025-10-18,80200,26-35,1.6536082474226803,Above 10 years,Medium
+C1034,Delhi,Savings,Self_Employed,ATM,29,19000.0,5.8,22.0,1,2025-08-29,30900,26-35,1.6263157894736842,5-10 years,Medium
+C1184,Ghaziabad,Savings,Salaried,Branch,29,34500.0,1.8,35.0,1,2025-04-23,62400,26-35,1.808695652173913,Up to 2 years,High
+C1011,Delhi,Savings,Student,ATM,39,47000.0,1.2,32.0,0,2025-12-02,14600,36-45,0.31063829787234043,Up to 2 years,High
+C1152,Delhi,Savings,Salaried,Mobile_App,38,23500.0,7.5,32.0,4,2026-07-26,81200,36-45,3.4553191489361703,5-10 years,High
+C1246,Delhi,Savings,Self_Employed,Net_Banking,42,40000.0,3.6,,3,2026-08-20,40200,36-45,1.005,2-5 years,
+C1202,Delhi,Current,Salaried,Mobile_App,33,60500.0,2.3,19.0,1,2026-07-07,47200,26-35,0.7801652892561983,2-5 years,Medium
+C1160,Delhi,Savings,,Net_Banking,57,33500.0,7.3,12.0,4,2025-05-14,69100,Above 55,2.062686567164179,5-10 years,Low
+C1044,Mumbai,Salary,Student,Mobile_App,31,59000.0,4.4,38.0,0,2025-06-26,83300,26-35,1.411864406779661,2-5 years,High
+C1153,Delhi,Savings,Self_Employed,Net_Banking,52,84500.0,12.2,33.0,1,2026-04-22,114400,46-55,1.353846153846154,Above 10 years,High
+C1084,Delhi,Savings,Salaried,Mobile_App,31,34000.0,7.3,33.0,1,2025-02-23,67200,26-35,1.9764705882352942,5-10 years,High
+C1006,Bengaluru,Savings,Salaried,Net_Banking,24,69500.0,2.7,32.0,1,2025-03-06,30900,18-25,0.4446043165467626,2-5 years,High
+C1250,Ghaziabad,Savings,Salaried,Mobile_App,31,43500.0,5.1,20.0,4,2026-04-30,87700,26-35,2.0160919540229885,5-10 years,Medium
+C1052,Mumbai,Savings,Self_Employed,Mobile_App,39,84500.0,2.9,34.0,0,2025-04-28,42300,36-45,0.5005917159763313,2-5 years,High
+C1075,Ghaziabad,Current,Salaried,Net_Banking,39,69000.0,10.0,39.0,0,2025-12-13,138900,36-45,2.0130434782608697,5-10 years,High
+C1154,Mumbai,Savings,Self_Employed,Mobile_App,29,52500.0,2.9,41.0,1,2026-06-19,92200,26-35,1.756190476190476,2-5 years,High
+C1127,Lucknow,Savings,Self_Employed,Mobile_App,47,44000.0,9.7,25.0,4,2025-12-09,44100,46-55,1.0022727272727272,5-10 years,Medium
+C1199,Ghaziabad,Savings,Self_Employed,Net_Banking,44,125500.0,19.7,34.0,4,2026-01-30,146100,36-45,1.1641434262948207,Above 10 years,High
+C1176,Bengaluru,Current,Retired,Branch,29,34000.0,4.3,48.0,2,2025-11-05,89700,26-35,2.638235294117647,2-5 years,Very High
+C1074,Bengaluru,Salary,Self_Employed,Mobile_App,50,23000.0,1.8,35.0,3,2025-12-10,2000,46-55,0.08695652173913043,Up to 2 years,High
+C1005,Ghaziabad,Salary,Salaried,Mobile_App,47,93000.0,6.5,,1,2025-09-08,104300,46-55,1.121505376344086,5-10 years,
+C1020,Delhi,Savings,Salaried,ATM,37,36500.0,3.2,35.0,0,2026-07-15,7400,36-45,0.20273972602739726,2-5 years,High
+C1036,Lucknow,Joint,Salaried,Net_Banking,40,21500.0,3.7,22.0,3,2025-10-26,37200,36-45,1.7302325581395348,2-5 years,Medium
+C1045,Ghaziabad,Joint,Self_Employed,Mobile_App,21,29500.0,1.0,22.0,5,2026-05-09,7200,18-25,0.2440677966101695,Up to 2 years,Medium
+C1241,Delhi,Savings,Self_Employed,Mobile_App,31,31500.0,4.7,21.0,3,2025-04-02,42600,26-35,1.3523809523809525,2-5 years,Medium
+C1146,Bengaluru,Joint,Salaried,Branch,18,50000.0,0.5,31.0,5,2024-12-08,49500,18-25,0.99,Up to 2 years,High
+C1131,Lucknow,Savings,Retired,Mobile_App,45,39000.0,9.6,40.0,1,2026-09-20,63700,36-45,1.6333333333333333,5-10 years,High
+C1220,Mumbai,Savings,Self_Employed,Mobile_App,38,21000.0,2.4,20.0,3,2025-10-11,35500,36-45,1.6904761904761905,2-5 years,Medium
+C1118,Bengaluru,Current,Self_Employed,Mobile_App,37,34500.0,1.5,27.0,1,2025-08-06,26600,36-45,0.7710144927536232,Up to 2 years,Medium
+C1140,Bengaluru,Savings,,Branch,35,28000.0,0.5,25.0,4,2025-08-03,49300,26-35,1.7607142857142857,Up to 2 years,Medium
+C1081,Lucknow,Savings,Student,Net_Banking,29,25000.0,6.6,37.0,0,2025-09-24,39800,26-35,1.592,5-10 years,High
+C1121,Lucknow,Salary,Self_Employed,Mobile_App,35,47000.0,4.8,38.0,2,2026-01-01,49700,26-35,1.0574468085106383,2-5 years,High
+C1058,Lucknow,Current,Student,Net_Banking,66,59000.0,3.4,15.0,1,2026-01-15,61600,Above 55,1.0440677966101695,2-5 years,Low
+C1002,Delhi,Salary,Self_Employed,Branch,36,86500.0,1.7,21.0,0,2025-04-20,57100,36-45,0.6601156069364161,Up to 2 years,Medium
+C1240,Bengaluru,Salary,Self_Employed,Mobile_App,46,76500.0,4.0,18.0,6,2025-05-09,82200,46-55,1.0745098039215686,2-5 years,Medium
+C1082,Lucknow,Salary,Salaried,Mobile_App,52,32000.0,1.5,31.0,3,2025-02-08,35300,46-55,1.103125,Up to 2 years,High
+C1232,Mumbai,Savings,Salaried,Branch,50,44500.0,3.7,21.0,1,2026-01-26,75100,46-55,1.6876404494382022,2-5 years,Medium
+C1237,Mumbai,Savings,Self_Employed,Mobile_App,24,29000.0,6.0,27.0,3,2026-01-19,50800,18-25,1.7517241379310344,5-10 years,Medium
+C1209,Mumbai,Savings,Retired,ATM,35,43500.0,3.4,35.0,5,2026-02-06,24800,26-35,0.5701149425287356,2-5 years,High
+C1132,DELHI,Current,Retired,Mobile_App,35,50000.0,4.9,42.0,3,2026-04-15,72900,26-35,1.458,2-5 years,High
+C1064,Bengaluru,Salary,Salaried,Mobile_App,40,87500.0,12.2,20.0,2,2025-05-22,117100,36-45,1.3382857142857143,Above 10 years,Medium
+C1145,Lucknow,Joint,Salaried,Branch,49,49000.0,5.3,32.0,2,2025-07-09,53900,46-55,1.1,5-10 years,High
+C1047,LUCKNOW,Joint,Self_Employed,Net_Banking,54,63000.0,3.3,14.0,1,2025-06-17,71800,46-55,1.1396825396825396,2-5 years,Low
+C1015,Mumbai,Savings,Salaried,Mobile_App,42,30500.0,19.2,31.0,3,2025-08-24,77700,36-45,2.5475409836065572,Above 10 years,High
+C1080,Ghaziabad,Savings,Self_Employed,Mobile_App,18,49000.0,0.5,40.0,1,2026-01-28,39400,18-25,0.8040816326530612,Up to 2 years,High
+C1018,Mumbai,Joint,Salaried,Mobile_App,63,60000.0,19.4,26.0,4,2025-03-05,147900,Above 55,2.465,Above 10 years,Medium
+C1211,Mumbai,Salary,Salaried,ATM,31,29500.0,8.2,26.0,1,2025-07-14,103800,26-35,3.51864406779661,5-10 years,Medium
+C1180,Bengaluru,Savings,Salaried,Net_Banking,28,53500.0,3.5,44.0,1,2026-09-04,48600,26-35,0.908411214953271,2-5 years,High
+C1223,Lucknow,Joint,Salaried,ATM,52,31000.0,3.9,17.0,1,2025-02-28,39700,46-55,1.2806451612903227,2-5 years,Medium
+C1024,Bengaluru,Current,Salaried,Mobile_App,44,33000.0,5.4,47.0,2,2026-07-29,102900,36-45,3.118181818181818,5-10 years,Very High
+C1012,Ghaziabad,Salary,Salaried,Mobile_App,27,42000.0,9.5,26.0,2,2026-10-06,122900,26-35,2.926190476190476,5-10 years,Medium
+C1059,Lucknow,Current,Salaried,Mobile_App,62,46500.0,5.7,19.0,3,2025-04-16,51600,Above 55,1.1096774193548387,5-10 years,Medium
+C1115,Lucknow,Current,Salaried,Net_Banking,51,46500.0,13.5,43.0,2,2025-04-16,124900,46-55,2.686021505376344,Above 10 years,High
+C1187,Mumbai,Current,Student,Mobile_App,26,84000.0,6.4,3.0,1,2025-06-17,78400,26-35,0.9333333333333333,5-10 years,Low
+C1173,Mumbai,Savings,Salaried,Mobile_App,33,48000.0,1.7,19.0,4,2025-01-11,52900,26-35,1.1020833333333333,Up to 2 years,Medium
+C1043,Mumbai,Savings,Salaried,Branch,39,51000.0,1.7,31.0,4,2025-01-09,34500,36-45,0.6764705882352942,Up to 2 years,High
+C1217,Bengaluru,Current,Self_Employed,Net_Banking,43,37500.0,4.6,4.0,2,2025-12-06,40800,36-45,1.088,2-5 years,Low
+C1071,Delhi,Savings,Salaried,Net_Banking,47,124500.0,1.4,43.0,1,2025-12-22,61500,46-55,0.4939759036144578,Up to 2 years,High
+C1067,Mumbai,Salary,Retired,Branch,30,42000.0,,25.0,1,2025-04-24,85500,26-35,2.0357142857142856,,Medium
+C1138,Mumbai,Savings,Student,Mobile_App,46,35500.0,8.1,31.0,3,2025-12-12,52100,46-55,1.467605633802817,5-10 years,High
+C1085,Bengaluru,Salary,Retired,ATM,30,38000.0,5.6,25.0,3,2025-12-27,61600,26-35,1.6210526315789473,5-10 years,Medium
+C1172,Mumbai,Salary,Retired,Branch,54,43500.0,7.2,24.0,0,2026-07-13,47400,46-55,1.089655172413793,5-10 years,Medium
+C1122,Lucknow,Savings,Student,Mobile_App,30,85500.0,12.5,19.0,2,2025-02-17,120500,26-35,1.409356725146199,Above 10 years,Medium
+C1035,Bengaluru,Savings,Self_Employed,Net_Banking,34,34500.0,11.9,20.0,2,2025-04-20,63100,26-35,1.8289855072463768,Above 10 years,Medium
+C1100,Mumbai,Savings,Salaried,Mobile_App,47,19000.0,4.2,18.0,1,2025-09-24,33800,46-55,1.7789473684210526,2-5 years,Medium
+C1093,Mumbai,Savings,Self_Employed,Mobile_App,39,69500.0,8.1,29.0,2,2026-09-07,54400,36-45,0.7827338129496403,5-10 years,Medium
+C1169,Lucknow,Current,Retired,Mobile_App,47,53500.0,3.9,31.0,4,2025-11-29,58600,46-55,1.0953271028037384,2-5 years,High
+C1092,Mumbai,Savings,Salaried,Mobile_App,31,71000.0,1.8,20.0,3,2025-02-19,94900,26-35,1.3366197183098592,Up to 2 years,Medium
+C1009,Mumbai,Salary,Salaried,Branch,31,39000.0,5.9,26.0,2,2026-05-07,61300,26-35,1.5717948717948718,5-10 years,Medium
+C1032,Bengaluru,Salary,Salaried,Mobile_App,61,45500.0,8.6,28.0,3,2026-07-22,83400,Above 55,1.832967032967033,5-10 years,Medium
+C1037,Mumbai,Salary,Salaried,Mobile_App,48,,3.1,24.0,3,2026-01-18,44400,46-55,,2-5 years,Medium
+C1180,Bengaluru,Savings,Salaried,Net_Banking,28,53500.0,3.5,44.0,1,2026-09-04,48600,26-35,0.908411214953271,2-5 years,High
+C1079,Lucknow,Joint,Retired,Mobile_App,52,29500.0,2.4,,2,2025-08-03,27500,46-55,0.9322033898305084,2-5 years,
+C1116,Delhi,Savings,Salaried,Mobile_App,40,23500.0,5.4,44.0,1,2026-05-01,55400,36-45,2.3574468085106384,5-10 years,High
+C1171,Ghaziabad,Savings,Salaried,Net_Banking,28,57500.0,4.5,44.0,2,2026-08-15,66700,26-35,1.16,2-5 years,High
+C1016,Bengaluru,Savings,Salaried,Net_Banking,50,67000.0,7.4,20.0,2,2026-09-12,78300,46-55,1.1686567164179105,5-10 years,Medium
+C1234,Ghaziabad,Salary,Student,Net_Banking,55,44500.0,5.7,21.0,1,2025-09-14,68300,46-55,1.5348314606741573,5-10 years,Medium
+C1077,delhi,Salary,Salaried,Mobile_App,49,41500.0,4.6,10.0,2,2025-12-27,49300,46-55,1.1879518072289157,2-5 years,Low
+C1208,Ghaziabad,Savings,Retired,Mobile_App,39,18500.0,1.7,43.0,5,2025-08-14,21500,36-45,1.162162162162162,Up to 2 years,High
+C1027,Mumbai,Savings,Self_Employed,Mobile_App,27,15000.0,3.9,18.0,3,2026-09-05,2000,26-35,0.13333333333333333,2-5 years,Medium
+C1135,Mumbai,Salary,Salaried,Mobile_App,37,38500.0,4.5,37.0,0,2025-03-02,39200,36-45,1.018181818181818,2-5 years,High
+C1230,Bengaluru,Savings,Retired,Branch,64,48000.0,6.5,29.0,1,2025-03-26,46600,Above 55,0.9708333333333333,5-10 years,Medium
+C1126,Bengaluru,Joint,Student,Branch,44,28000.0,15.9,37.0,0,2025-05-09,108900,36-45,3.8892857142857142,Above 10 years,High
+C1224,Bengaluru,Current,Salaried,Branch,38,71000.0,3.3,14.0,0,2026-10-03,65100,36-45,0.9169014084507042,2-5 years,Low
+C1117,Delhi,Savings,Student,Net_Banking,36,25500.0,1.5,10.0,4,2025-11-05,2000,36-45,0.0784313725490196,Up to 2 years,Low
+C1051,Delhi,Savings,Salaried,Mobile_App,44,30500.0,2.4,20.0,2,2026-05-18,8600,36-45,0.2819672131147541,2-5 years,Medium
+C1028,Mumbai,Salary,Retired,Mobile_App,18,57500.0,0.5,34.0,3,2025-07-01,55000,18-25,0.9565217391304348,Up to 2 years,High
+C1089,Mumbai,Salary,Self_Employed,Mobile_App,30,43000.0,2.4,36.0,7,2025-12-21,12800,26-35,0.29767441860465116,2-5 years,High
+C1017,Delhi,Savings,Self_Employed,Net_Banking,33,17500.0,3.3,41.0,0,2025-03-27,48400,26-35,2.7657142857142856,2-5 years,High
+C1014,Lucknow,Joint,Retired,Branch,40,47000.0,,20.0,4,2026-08-29,78600,36-45,1.672340425531915,,Medium
+C1111,Delhi,Current,Self_Employed,Net_Banking,37,62000.0,14.1,30.0,4,2025-05-02,153800,36-45,2.4806451612903224,Above 10 years,Medium
+C1150,Delhi,Savings,Salaried,Mobile_App,-27,79000.0,3.4,28.0,4,2025-11-07,77300,,0.9784810126582278,2-5 years,Medium
+C1053,Mumbai,Joint,Salaried,Net_Banking,34,43500.0,7.6,27.0,2,2026-07-22,78600,26-35,1.806896551724138,5-10 years,Medium
+C1191,Delhi,Current,Salaried,Mobile_App,40,15500.0,3.8,33.0,3,2026-01-05,10800,36-45,0.6967741935483871,2-5 years,High
+C1151,Delhi,Salary,Salaried,Mobile_App,47,61500.0,5.0,58.0,1,2025-08-27,61000,46-55,0.991869918699187,2-5 years,Very High
+C1242,Ghaziabad,Salary,Self_Employed,Mobile_App,31,51500.0,5.3,44.0,2,2025-08-07,100500,26-35,1.9514563106796117,5-10 years,High
+C1166,Mumbai,Savings,Student,Net_Banking,47,43000.0,6.2,24.0,3,2025-10-03,109600,46-55,2.5488372093023255,5-10 years,Medium
+C1158,Delhi,Savings,Salaried,Net_Banking,42,54500.0,3.7,25.0,1,2025-05-17,37600,36-45,0.689908256880734,2-5 years,Medium
+C1049,Bengaluru,Joint,Self_Employed,Net_Banking,23,57000.0,3.4,21.0,2,2025-05-11,76300,18-25,1.3385964912280701,2-5 years,Medium
+C1190,Bengaluru,Savings,Self_Employed,ATM,28,51000.0,10.5,25.0,2,2026-08-30,100200,26-35,1.964705882352941,Above 10 years,Medium
+C1072,Mumbai,Current,Retired,Branch,23,41000.0,4.0,9.0,2,2025-07-22,94000,18-25,2.292682926829268,2-5 years,Low
+C1107,Mumbai,Savings,Salaried,Branch,27,40000.0,9.5,21.0,4,2026-10-29,55500,26-35,1.3875,5-10 years,Medium
+C1066,Ghaziabad,Savings,Salaried,Mobile_App,39,39000.0,7.6,18.0,2,2025-09-13,28600,36-45,0.7333333333333333,5-10 years,Medium
+C1109,Delhi,Current,Salaried,Mobile_App,50,39000.0,7.6,10.0,1,2026-07-15,56300,46-55,1.4435897435897436,5-10 years,Low
+C1041,Bengaluru,Savings,Retired,Net_Banking,25,64500.0,6.6,27.0,3,2026-09-10,63200,18-25,0.9798449612403101,5-10 years,Medium
+C1214,Bengaluru,Joint,Self_Employed,Net_Banking,40,56000.0,2.0,22.0,2,2026-03-12,103900,36-45,1.855357142857143,Up to 2 years,Medium
+C1182,Mumbai,Current,Salaried,Net_Banking,57,47500.0,1.6,27.0,4,2025-07-14,51900,Above 55,1.0926315789473684,Up to 2 years,Medium
+C1239,Delhi,Savings,Self_Employed,Net_Banking,45,65500.0,2.5,18.0,2,2025-11-25,18500,36-45,0.2824427480916031,2-5 years,Medium
+C1248,Lucknow,Savings,Self_Employed,Net_Banking,44,18000.0,19.5,36.0,5,2025-12-16,91900,36-45,5.105555555555555,Above 10 years,High
+C1068,Delhi,Joint,Student,Branch,25,57000.0,7.5,25.0,2,2024-12-26,57200,18-25,1.0035087719298246,5-10 years,Medium
+C1073,Ghaziabad,Joint,Salaried,ATM,44,12000.0,12.5,19.0,3,2025-10-30,27200,36-45,2.2666666666666666,Above 10 years,Medium
+C1215,Delhi,Salary,Student,ATM,25,51500.0,3.4,4.0,3,2026-03-25,48600,18-25,0.9436893203883495,2-5 years,Low
+C1178,Ghaziabad,Salary,Student,Mobile_App,28,30000.0,2.4,17.0,1,2026-06-18,59100,26-35,1.97,2-5 years,Medium
+C1083,Mumbai,Current,Self_Employed,Mobile_App,41,60000.0,7.6,27.0,2,2026-09-22,116300,36-45,1.9383333333333332,5-10 years,Medium
+C1133,Delhi,Salary,Salaried,Net_Banking,43,31000.0,3.2,10.0,4,2026-06-17,33200,36-45,1.070967741935484,2-5 years,Low
+C1040,Mumbai,Savings,Salaried,Branch,26,51500.0,5.3,28.0,4,2026-03-20,59500,26-35,1.1553398058252426,5-10 years,Medium
+C1093,Mumbai,Savings,Self_Employed,Mobile_App,39,69500.0,8.1,29.0,2,2026-09-07,54400,36-45,0.7827338129496403,5-10 years,Medium
+C1238,Mumbai,Savings,Salaried,ATM,33,19000.0,4.4,42.0,4,2026-03-26,8900,26-35,0.46842105263157896,2-5 years,High
+C1090,Delhi,Salary,Retired,Mobile_App,43,85500.0,0.7,23.0,3,2025-04-30,62500,36-45,0.7309941520467836,Up to 2 years,Medium
+C1042,Ghaziabad,Salary,Self_Employed,Mobile_App,33,68500.0,9.8,3.0,0,2025-11-25,115200,26-35,1.6817518248175183,5-10 years,Low
+C1120,Delhi,Joint,Student,Mobile_App,39,26500.0,12.6,21.0,2,2026-06-22,82400,36-45,3.109433962264151,Above 10 years,Medium
+C1114,Delhi,Salary,Salaried,Mobile_App,44,61000.0,2.6,11.0,4,2025-08-17,46900,36-45,0.7688524590163934,2-5 years,Low
+C1177,Mumbai,Salary,Salaried,Mobile_App,51,24500.0,6.7,13.0,1,2025-05-09,66800,46-55,2.726530612244898,5-10 years,Low
+C1048,Delhi,Savings,Salaried,Branch,47,45500.0,1.7,32.0,2,2026-04-24,33300,46-55,0.7318681318681318,Up to 2 years,High
+C1162,Delhi,Salary,Salaried,Net_Banking,36,45500.0,1.1,22.0,2,2024-12-13,54400,36-45,1.1956043956043956,Up to 2 years,Medium
+C1235,Delhi,Salary,Retired,ATM,37,45500.0,7.9,10.0,1,2024-12-30,106800,36-45,2.3472527472527474,5-10 years,Low
+C1046,Mumbai,Salary,Salaried,Mobile_App,28,29000.0,7.0,28.0,2,2025-08-10,40800,26-35,1.4068965517241379,5-10 years,Medium
+C1004,Delhi,Salary,Salaried,Mobile_App,34,34000.0,4.4,31.0,0,2025-09-07,36300,26-35,1.0676470588235294,2-5 years,High
+C1003,Bengaluru,Salary,Salaried,Mobile_App,33,26000.0,3.8,31.0,2,2025-04-15,54000,26-35,2.076923076923077,2-5 years,High
+C1143,Lucknow,Savings,Self_Employed,Mobile_App,52,13500.0,2.1,34.0,5,2025-01-09,2000,46-55,0.14814814814814814,2-5 years,High
+C1139,Delhi,Salary,Salaried,Branch,28,44000.0,5.5,31.0,3,2025-05-23,21800,26-35,0.4954545454545455,5-10 years,High
+C1174,Mumbai,Savings,Student,ATM,27,26500.0,3.6,34.0,3,2026-02-21,25900,26-35,0.9773584905660377,2-5 years,High
+C1185,Bengaluru,Current,Salaried,Branch,52,46000.0,0.6,39.0,3,2025-03-31,45000,46-55,0.9782608695652174,Up to 2 years,High
+C1198,Lucknow,Savings,Student,Branch,36,64500.0,6.9,38.0,1,2026-07-02,72000,36-45,1.1162790697674418,5-10 years,High
+C1104,Bengaluru,Savings,Student,Net_Banking,52,38500.0,6.7,18.0,8,2025-06-01,48400,46-55,1.2571428571428571,5-10 years,Medium
+C1226,Delhi,Savings,Self_Employed,Mobile_App,59,,1.8,21.0,4,2026-07-03,13800,Above 55,,Up to 2 years,Medium
+C1149,Ghaziabad,Salary,Retired,Net_Banking,41,24500.0,6.6,24.0,1,2026-09-05,13300,36-45,0.5428571428571428,5-10 years,Medium
+C1119,Delhi,Savings,Self_Employed,Net_Banking,55,53500.0,5.3,27.0,4,2026-11-18,38500,46-55,0.719626168224299,5-10 years,Medium
+C1136,mumbai,Savings,Self_Employed,Branch,21,45000.0,3.5,35.0,3,2025-08-24,54700,18-25,1.2155555555555555,2-5 years,High
+C1123,Lucknow,Savings,,Mobile_App,38,22500.0,16.2,36.0,1,2025-07-11,80800,36-45,3.591111111111111,Above 10 years,High
+C1156,Lucknow,Savings,Self_Employed,Net_Banking,51,70000.0,11.9,26.0,1,2025-09-19,145200,46-55,2.0742857142857143,Above 10 years,Medium
+C1231,Mumbai,Savings,Salaried,Net_Banking,39,51000.0,2.5,9.0,7,2025-03-24,57900,36-45,1.1352941176470588,2-5 years,Low
+C1205,Mumbai,Salary,Self_Employed,Mobile_App,44,169500.0,2.1,36.0,5,2026-01-02,110200,36-45,0.6501474926253688,2-5 years,High
+C1026,Ghaziabad,Savings,Self_Employed,Mobile_App,34,19500.0,7.6,25.0,3,2026-05-09,23100,26-35,1.1846153846153846,5-10 years,Medium
+C1221,Bengaluru,Savings,Student,Net_Banking,35,85000.0,3.4,30.0,1,2025-10-30,25400,26-35,0.2988235294117647,2-5 years,Medium
+C1194,Bengaluru,Current,Salaried,Mobile_App,53,200000.0,6.6,44.0,2,2025-01-07,145100,46-55,0.7255,5-10 years,High
+C1069,Lucknow,Current,Self_Employed,Net_Banking,28,40000.0,2.2,38.0,1,2025-12-13,33500,26-35,0.8375,2-5 years,High
+C1144,Delhi,Salary,Self_Employed,Mobile_App,53,43000.0,4.1,6.0,1,2026-01-17,57100,46-55,1.327906976744186,2-5 years,Low
+C1236, Delhi,Salary,Student,Net_Banking,49,65000.0,5.1,,1,2026-03-02,40200,46-55,0.6184615384615385,5-10 years,
+C1159,Mumbai,Savings,Salaried,Mobile_App,39,29500.0,6.2,31.0,2,2025-01-23,52700,36-45,1.7864406779661017,5-10 years,High
+C1030,Bengaluru,Joint,Salaried,Mobile_App,61,35500.0,1.3,32.0,0,2026-03-22,38200,Above 55,1.076056338028169,Up to 2 years,High
+C1029,Bengaluru,Current,Salaried,Mobile_App,30,73500.0,7.1,15.0,2,2026-03-07,112500,26-35,1.530612244897959,5-10 years,Low
+C1022,Mumbai,Current,Salaried,Branch,28,37000.0,10.5,21.0,2,2026-08-21,68600,26-35,1.854054054054054,Above 10 years,Medium
+C1167,Lucknow,Savings,Salaried,Mobile_App,37,58500.0,1.5,45.0,2,2026-04-01,40400,36-45,0.6905982905982906,Up to 2 years,High
+C1201,Bengaluru,Savings,Salaried,ATM,38,41000.0,7.5,24.0,3,2026-05-27,51400,36-45,1.2536585365853659,5-10 years,Medium
+C1155,Mumbai,Savings,Self_Employed,ATM,58,29500.0,15.1,31.0,5,2025-10-28,71800,Above 55,2.4338983050847456,Above 10 years,High
+C1245,Mumbai,Savings,Self_Employed,Net_Banking,37,52000.0,9.2,37.0,1,2026-01-10,98700,36-45,1.898076923076923,5-10 years,High
+C1110,Delhi,Salary,Salaried,Branch,46,29000.0,0.5,22.0,1,2026-04-14,2000,46-55,0.06896551724137931,Up to 2 years,Medium
+C1096,Delhi,Salary,Salaried,Net_Banking,40,57000.0,4.1,32.0,4,2026-09-18,43500,36-45,0.7631578947368421,2-5 years,High
+C1213,Bengaluru,Joint,Self_Employed,Mobile_App,31,21500.0,1.4,25.0,2,2025-01-18,46200,26-35,2.1488372093023256,Up to 2 years,Medium
+C1057,Lucknow,Joint,Salaried,ATM,27,32500.0,9.5,11.0,0,2025-02-06,68500,26-35,2.1076923076923078,5-10 years,Low
+C1200,Mumbai,Salary,Self_Employed,Mobile_App,35,28500.0,10.1,32.0,3,2025-07-08,69500,26-35,2.43859649122807,Above 10 years,High
+C1125,  ghaziabad,Savings,Salaried,Net_Banking,42,76000.0,8.3,29.0,3,2025-03-12,81900,36-45,1.0776315789473685,5-10 years,Medium
+C1183,Delhi,Savings,Self_Employed,Mobile_App,44,31500.0,4.9,24.0,2,2025-05-24,48100,36-45,1.5269841269841269,2-5 years,Medium
+C1061,Delhi,Savings,Salaried,Branch,37,62500.0,6.0,25.0,3,2025-01-21,47900,36-45,0.7664,5-10 years,Medium
+C1186,Mumbai,Salary,Salaried,Net_Banking,26,54000.0,7.4,36.0,7,2025-08-27,89300,26-35,1.6537037037037037,5-10 years,High
+C1023,Mumbai,Salary,Self_Employed,Net_Banking,18,38000.0,,12.0,2,2025-08-21,27500,18-25,0.7236842105263158,,Low
+C1038,Ghaziabad,Savings,Salaried,ATM,44,26000.0,5.0,,2,2025-02-22,2000,36-45,0.07692307692307693,2-5 years,
+C1102,Bengaluru,Savings,Salaried,Net_Banking,45,12000.0,3.4,20.0,4,2025-06-12,5400,36-45,0.45,2-5 years,Medium
+C1129,Mumbai,Salary,Retired,Branch,51,41000.0,12.8,34.0,2,2024-11-26,107000,46-55,2.6097560975609757,Above 10 years,High
+C1195,Delhi,Savings,Salaried,Net_Banking,34,133500.0,7.5,29.0,5,2025-04-08,93000,26-35,0.6966292134831461,5-10 years,Medium
+C1112,Lucknow,Savings,Salaried,ATM,24,67000.0,2.2,33.0,5,2025-06-07,53800,18-25,0.8029850746268656,2-5 years,High
+C1147,Bengaluru,Savings,Salaried,Mobile_App,54,84000.0,7.3,40.0,1,2026-07-11,86400,46-55,1.0285714285714285,5-10 years,High
+C1207,Bengaluru,Savings,Salaried,Branch,39,69000.0,6.7,26.0,3,2026-05-18,106400,36-45,1.5420289855072464,5-10 years,Medium
+C1050,Mumbai,Savings,Salaried,Mobile_App,21,95500.0,3.5,29.0,1,2025-05-05,43800,18-25,0.4586387434554974,2-5 years,Medium
+C1013,Delhi,Savings,Student,Mobile_App,37,62500.0,6.0,37.0,3,2025-07-11,56300,36-45,0.9008,5-10 years,High
+C1148,Ghaziabad,Salary,Retired,Net_Banking,32,41000.0,4.6,12.0,0,2026-05-23,60600,26-35,1.4780487804878049,2-5 years,Low
+C1087,Mumbai,Savings,Student,Mobile_App,49,14500.0,3.6,13.0,5,2026-07-30,2000,46-55,0.13793103448275862,2-5 years,Low
+C1219,Delhi,Savings,Student,Net_Banking,36,16000.0,0.9,15.0,3,2026-10-24,11000,36-45,0.6875,Up to 2 years,Low
+C1188,Ghaziabad,Savings,Salaried,Net_Banking,25,40500.0,0.9,11.0,3,2025-06-02,49300,18-25,1.217283950617284,Up to 2 years,Low
+C1130,Bengaluru,Joint,Salaried,Mobile_App,33,40000.0,5.7,36.0,1,2025-05-10,17400,26-35,0.435,5-10 years,High
+C1165,Bengaluru,Savings,Self_Employed,Net_Banking,22,45000.0,4.5,24.0,2,2026-10-05,99100,18-25,2.2022222222222223,2-5 years,Medium
+C1243,Ghaziabad,Savings,Salaried,Net_Banking,33,31500.0,10.3,26.0,2,2026-02-05,54300,26-35,1.723809523809524,Above 10 years,Medium
+C1008,Delhi,Joint,Self_Employed,Mobile_App,33,42500.0,4.1,27.0,3,2025-03-11,42100,26-35,0.9905882352941177,2-5 years,Medium
+C1091,Mumbai,Salary,Self_Employed,Net_Banking,34,117000.0,2.3,31.0,3,2026-08-03,76400,26-35,0.652991452991453,2-5 years,High
+C1204,Mumbai,Savings,Salaried,ATM,46,26000.0,6.8,36.0,3,2025-03-21,69300,46-55,2.6653846153846152,5-10 years,High
+C1056,Lucknow,Savings,Salaried,Mobile_App,24,53500.0,5.7,21.0,3,2025-03-14,78400,18-25,1.4654205607476636,5-10 years,Medium
+C1161,Mumbai,Salary,Salaried,Branch,30,37500.0,12.5,34.0,2,2025-05-11,77700,26-35,2.072,Above 10 years,High
+C1098,Delhi,Current,Self_Employed,Net_Banking,35,33000.0,4.0,41.0,5,2025-09-09,48700,26-35,1.4757575757575758,2-5 years,High
+C1142,Lucknow,Savings,Salaried,Mobile_App,38,23500.0,12.6,20.0,3,2026-06-07,62700,36-45,2.668085106382979,Above 10 years,Medium
+C1175,Delhi,Savings,Retired,Net_Banking,42,49000.0,6.9,12.0,3,2025-09-20,100300,36-45,2.046938775510204,5-10 years,Low
+C1070,Lucknow,Savings,Salaried,ATM,56,28000.0,7.3,37.0,2,2026-01-12,39800,Above 55,1.4214285714285715,5-10 years,High
+C1086,Delhi,Salary,Self_Employed,Branch,21,120000.0,3.5,21.0,0,2025-11-03,78300,18-25,0.6525,2-5 years,Medium
+C1206,Bengaluru,Savings,Salaried,ATM,46,24500.0,2.2,31.0,2,2025-08-30,35000,46-55,1.4285714285714286,2-5 years,High
+C1141,Bengaluru,Savings,Self_Employed,Net_Banking,34,22000.0,8.5,35.0,2,2025-07-12,80600,26-35,3.6636363636363636,5-10 years,High
+C1033,Delhi,Current,Retired,Mobile_App,53,57000.0,8.3,26.0,0,2025-11-15,93800,46-55,1.6456140350877193,5-10 years,Medium
+C1055,Delhi  ,Savings,Salaried,ATM,37,96000.0,3.9,24.0,3,2026-05-08,56700,36-45,0.590625,2-5 years,Medium
+C1094,Ghaziabad,Salary,Salaried,Net_Banking,42,53000.0,6.8,18.0,4,2025-05-28,64700,36-45,1.2207547169811321,5-10 years,Medium
+C1247,Ghaziabad,Savings,Self_Employed,Mobile_App,40,31500.0,4.4,31.0,1,2024-12-10,9500,36-45,0.30158730158730157,2-5 years,High
+C1203,Lucknow,Salary,Self_Employed,Mobile_App,30,36000.0,8.1,25.0,4,2026-07-26,74400,26-35,2.066666666666667,5-10 years,Medium
+C1192,Mumbai,Joint,Salaried,Mobile_App,18,22500.0,0.5,24.0,5,2025-04-23,11100,18-25,0.49333333333333335,Up to 2 years,Medium
+C1173,Mumbai,Savings,Salaried,Mobile_App,33,48000.0,1.7,19.0,4,2025-01-11,52900,26-35,1.1020833333333333,Up to 2 years,Medium
+C1189,Ghaziabad,Current,Student,Mobile_App,39,21000.0,7.9,21.0,2,2026-05-06,50800,36-45,2.419047619047619,5-10 years,Medium
+C1157,Ghaziabad,Salary,Salaried,Mobile_App,38,105000.0,14.8,23.0,1,2026-07-20,107900,36-45,1.0276190476190477,Above 10 years,Medium
+C1095,Delhi,Salary,Self_Employed,Mobile_App,43,66000.0,2.7,30.0,2,2026-06-14,68700,36-45,1.040909090909091,2-5 years,Medium
+C1054,Delhi,Salary,Salaried,Mobile_App,45,33000.0,7.6,39.0,3,2026-07-01,63900,36-45,1.9363636363636363,5-10 years,High
+C1227,Delhi,Salary,Salaried,Mobile_App,33,24000.0,6.9,34.0,1,2026-02-12,59100,26-35,2.4625,5-10 years,High
+C1031,Mumbai,Savings,Self_Employed,Mobile_App,23,84500.0,2.5,30.0,2,2025-06-30,53000,18-25,0.6272189349112426,2-5 years,Medium
+C1233,Mumbai,Salary,Salaried,Mobile_App,52,65000.0,7.0,29.0,1,2026-10-04,95200,46-55,1.4646153846153847,5-10 years,Medium
+C1170,Delhi,Savings,Salaried,Mobile_App,42,37000.0,19.1,34.0,4,2026-08-30,82100,36-45,2.218918918918919,Above 10 years,High
+C1113,Ghaziabad,Savings,Salaried,Branch,35,105000.0,2.8,39.0,1,2024-12-19,50800,26-35,0.4838095238095238,2-5 years,High
+C1216,Bengaluru,Current,Retired,Branch,19,17000.0,1.5,15.0,4,2025-04-29,18800,18-25,1.1058823529411765,Up to 2 years,Low
+C1060,Delhi,Savings,Self_Employed,Net_Banking,46,62500.0,8.1,29.0,2,2025-08-26,34700,46-55,0.5552,5-10 years,Medium
+C1025,Lucknow,Salary,Salaried,Net_Banking,45,81000.0,4.6,31.0,0,2025-02-19,63700,36-45,0.7864197530864198,2-5 years,High
+C1225,Mumbai,Joint,Salaried,Branch,37,27500.0,0.7,28.0,5,2025-01-30,34700,36-45,1.2618181818181817,Up to 2 years,Medium
+C1076,Lucknow,Savings,Retired,ATM,37,47500.0,2.3,24.0,1,2026-02-08,70100,36-45,1.4757894736842105,2-5 years,Medium
+C1108,Mumbai,Salary,Student,Mobile_App,18,33000.0,0.5,21.0,1,2025-04-27,33600,18-25,1.018181818181818,Up to 2 years,Medium
+C1101,Mumbai,Savings,Retired,ATM,37,,5.9,32.0,5,2024-11-24,41600,36-45,,5-10 years,High
+C1222,Mumbai,Joint,Self_Employed,Mobile_App,34,30500.0,1.8,25.0,3,2026-05-30,2000,26-35,0.06557377049180328,Up to 2 years,Medium
+C1137,Delhi,Salary,Salaried,Mobile_App,23,55500.0,5.5,29.0,1,2024-11-23,67500,18-25,1.2162162162162162,5-10 years,Medium
+C1019,Delhi,Salary,Salaried,Net_Banking,25,36000.0,3.7,36.0,1,2024-11-24,43900,18-25,1.2194444444444446,2-5 years,High
+C1099,Ghaziabad,Salary,Salaried,Mobile_App,35,,11.2,36.0,5,2026-10-14,54100,26-35,,Above 10 years,High
+C1168,Delhi,Savings,Self_Employed,Branch,45,36000.0,,24.0,1,2026-03-22,36700,36-45,1.0194444444444444,,Medium
+C1163,Ghaziabad,Savings,Salaried,Branch,27,71500.0,9.2,34.0,1,2025-02-15,81500,26-35,1.1398601398601398,5-10 years,High
+C1010,Mumbai,Salary,Salaried,ATM,48,56500.0,4.5,,5,2025-06-08,78900,46-55,1.3964601769911504,2-5 years,
+C1228,Ghaziabad,Salary,Salaried,Branch,32,63000.0,9.1,18.0,1,2026-11-01,67300,26-35,1.0682539682539682,5-10 years,Medium
+C1039,Mumbai,Current,Self_Employed,Branch,52,113000.0,4.8,36.0,4,2025-12-07,57100,46-55,0.5053097345132743,2-5 years,High
+C1193,Mumbai,Savings,Salaried,Mobile_App,18,31000.0,0.5,28.0,3,2026-07-23,2000,18-25,0.06451612903225806,Up to 2 years,Medium
+C1105,Lucknow,Salary,Salaried,Mobile_App,28,34000.0,4.8,12.0,1,2025-05-09,57800,26-35,1.7,2-5 years,Low
+C1229,Ghaziabad,Savings,Self_Employed,Mobile_App,35,67000.0,16.2,14.0,0,2026-10-24,117200,26-35,1.7492537313432837,Above 10 years,Low
+C1124,Mumbai,Savings,Salaried,Net_Banking,46,26500.0,6.8,14.0,4,2025-10-15,56200,46-55,2.120754716981132,5-10 years,Low
+C1007,Delhi,Salary,Retired,Mobile_App,24,25500.0,3.8,34.0,2,2025-06-16,45400,18-25,1.780392156862745,2-5 years,High
+C1164,Ghaziabad,Salary,Self_Employed,Mobile_App,41,52500.0,3.4,32.0,3,2025-11-25,47300,36-45,0.900952380952381,2-5 years,High
+C1092,Mumbai,Savings,Salaried,Mobile_App,31,71000.0,1.8,20.0,3,2025-02-19,94900,26-35,1.3366197183098592,Up to 2 years,Medium
+C1218,Delhi,Salary,Retired,Mobile_App,43,34000.0,9.2,42.0,3,2025-04-30,81900,36-45,2.4088235294117646,5-10 years,High
+C1212,Mumbai,Savings,Self_Employed,Branch,42,61500.0,3.6,30.0,2,2026-06-16,32800,36-45,0.5333333333333333,2-5 years,Medium
