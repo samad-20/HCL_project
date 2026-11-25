@@ -1,17 +1,159 @@
-# Retail Banking Customer Behaviour and Average Monthly Balance Analysis
+# Bank Customer Data Analysis
 
-## Student & Project Details
-- **Name:** Samad Ahmad[cite: 3]
-- **Admission No:** 2026b01011054[cite: 3]
-- **Email ID:** samad.26b01011054@abes.ac.in[cite: 3]
-- **Branch / Section:** CSE 12[cite: 3]
-- **GitHub Repository:** https://github.com/samad-20/HCL_project.git[cite: 3]
-- **Date:** 22-11-2026[cite: 3]
+## Project Overview
+This project explores a bank customer dataset using Python and data analysis libraries.
+The aim is to understand customer distribution, account preferences, and banking-channel usage.
+It also compares average monthly balances across employment categories.
+The analysis is intended for learning and exploratory data analysis (EDA).
+The results describe only the supplied dataset and are not official bank-wide statistics.
 
-## 1. Business Problem
-Retail banking teams need to understand how customer demographics (`Age`, `City`, `Employment_Type`), account structures (`Account_Type`), relationship tenure (`Tenure_Years`), income (`Monthly_Income`), and banking channels (`Preferred_Channel`) relate to `Avg_Monthly_Balance`, `Monthly_Transactions`, and `Branch_Visits`[cite: 3]. Clear insights help management identify high-value segments, support customer retention, and guide digital channel adoption[cite: 3].
+## Student Details
+- **Name:** Samad Ahmad
+- **Admission Number:** 2026b01011054
+- **Email:** samad.26b01011054@abes.ac.in
+- **Branch / Section:** CSE / 12
+- **GitHub Repository:** https://github.com/samad-20/HCL_project
+- **Project Date:** 22-11-2026
 
-## 2. Project Folder Structure
+## Dataset Information
+- **Input file:** `bank_data(4).csv`
+- **Dataset format:** CSV (comma-separated values)
+- **Rows in source file:** 255
+- **Columns in source file:** 12
+- **Unique customer IDs:** 250
+- **Exact duplicate rows:** 5
+- **Missing values:** Present in four columns
+- **Date field:** `Last_Review_Date`
+- **Date range:** 2024-11-23 to 2026-11-18
+
+## Columns in the Dataset
+| Column | Description |
+|---|---|
+| `Customer_ID` | Customer reference identifier |
+| `City` | City associated with the customer |
+| `Account_Type` | Type of bank account |
+| `Employment_Type` | Customer employment category |
+| `Preferred_Channel` | Customer's preferred banking channel |
+| `Age` | Customer age in years |
+| `Monthly_Income` | Customer monthly income |
+| `Tenure_Years` | Years the customer has been with the bank |
+| `Monthly_Transactions` | Number of monthly transactions |
+| `Branch_Visits` | Number of bank branch visits |
+| `Last_Review_Date` | Date of the latest customer review |
+| `Avg_Monthly_Balance` | Average monthly account balance |
+
+## Tools and Technologies
+- **Python:** Main programming language.
+- **pandas:** Reading, cleaning, grouping, and summarising data.
+- **NumPy:** Numerical operations and calculations.
+- **Matplotlib:** Creating data visualisations.
+- **Seaborn:** Optional statistical chart styling.
+- **Jupyter Notebook:** Running the analysis step by step.
+- **Visual Studio Code:** Editing project files and notebooks.
+- **Git and GitHub:** Version control and project sharing.
+
+## Project Objectives
+1. Find the number of customers in each city.
+2. Identify the most preferred banking channel.
+3. Understand the distribution of account types.
+4. Compare average monthly balance by employment type.
+5. Inspect missing values, duplicate records, and inconsistent text.
+6. Create clear tables and charts to communicate the results.
+
+## Business Questions
+### 1. Which cities have the highest number of customers?
+The city field is standardised before grouping.
+The source values include inconsistent spaces and capitalisation.
+After standardisation, Mumbai has 72 records.
+Delhi has 67 records.
+Bengaluru has 46 records.
+Lucknow has 36 records.
+Ghaziabad has 34 records.
+These counts are calculated on the original 255-row file before removing exact duplicate rows.
+
+### 2. Which banking channel is most preferred?
+`Preferred_Channel` is counted using its category values.
+Mobile App has 119 records.
+Net Banking has 67 records.
+Branch has 43 records.
+ATM has 26 records.
+Mobile App is the most frequently recorded preferred channel in this file.
+The counts above are from the original source dataset.
+
+### 3. What is the distribution of account types?
+Savings accounts have 122 records.
+Salary accounts have 73 records.
+Current accounts have 34 records.
+Joint accounts have 26 records.
+Savings is the most common account category in this dataset.
+The counts above are from the original source dataset.
+
+### 4. How does average balance vary by employment type?
+The comparison uses the mean of `Avg_Monthly_Balance`.
+Salaried customers have an average balance of approximately 58,738.58.
+Self-employed customers have an average balance of approximately 59,030.00.
+Retired customers have an average balance of approximately 62,692.59.
+Students have an average balance of approximately 54,734.62.
+Five records have a missing employment category and are not included in these group means.
+These figures are descriptive averages, not recommendations about individual customers.
+
+## Data Quality Checks
+The source file contains 255 rows and 12 columns.
+There are 5 exact duplicate rows.
+There are 5 repeated customer ID occurrences.
+There are 5 missing values in `Employment_Type`.
+There are 5 missing values in `Monthly_Income`.
+There are 5 missing values in `Tenure_Years`.
+There are 6 missing values in `Monthly_Transactions`.
+The `City` column contains 7 entries with inconsistent case or extra spaces.
+The `Age` column contains two implausible values: -27 and 212.
+The age values should be validated rather than silently accepted.
+Missing values should be handled using a documented rule.
+Numeric median imputation may be considered after checking each distribution.
+Missing employment categories may be retained as `Unknown` or filled only when justified.
+Exact duplicates should be removed before producing final summaries.
+Repeated customer IDs should be checked so records are not accidentally discarded.
+The original raw CSV should remain unchanged.
+
+## Suggested Cleaning Plan
+1. Load the source CSV with pandas.
+2. Inspect shape, data types, and descriptive statistics.
+3. Count missing values in every column.
+4. Identify exact duplicate rows.
+5. Review repeated values in `Customer_ID`.
+6. Remove confirmed exact duplicate rows.
+7. Strip leading and trailing spaces from text fields.
+8. Standardise city names consistently.
+9. Validate age values against a documented acceptable range.
+10. Decide and document how missing values will be handled.
+11. Convert `Last_Review_Date` to a datetime type.
+12. Recheck the cleaned data before analysis.
+13. Save the cleaned file separately from the raw file.
+
+## Suggested Derived Columns
+- `Age_Group`: age band created from validated age values.
+- `Income_Band`: monthly income category.
+- `Tenure_Category`: customer tenure category in years.
+The exact band boundaries should be stated in the notebook.
+Invalid or missing source values should not be assigned misleading categories.
+Derived columns are created for analysis and do not replace original fields.
+
+## Visualisations to Create
+- Bar chart: customer count by city.
+- Bar chart: preferred banking channel.
+- Bar chart: account type distribution.
+- Bar chart: average monthly balance by employment type.
+- Optional chart: age-group distribution after age validation.
+- Optional chart: monthly transactions by preferred channel.
+Each chart should have a clear title and labelled axes.
+Charts should be saved in the `images/` directory.
+Chart values must match the summary tables in the notebook.
+
+
+## Project Directory Structure
+
+The project is organised into the following folders and files:
+
 ```text
 DATA_ANALYTICS_PROJECT/
 ├── data/
@@ -33,27 +175,7 @@ DATA_ANALYTICS_PROJECT/
 │   └── draft.ipynb
 ├── script/
 │   ├── Presentation.pptx
-│   └── srs_document
+│   └── SRS.docx
 ├── README.md
 └── requirement.txt
-```[cite: 19]
-
-## 3. Dataset & Data Cleaning Summary
-- **Raw Dataset:** `data/raw/bank_data.csv` (`255` rows, `12` columns)[cite: 3, 19]
-- **Cleaned Dataset:** `data/processed/bank_data_cleaned.csv` (`250` rows, `12` columns)[cite: 19]
-- **Duplicates Removed:** `5` exact duplicate rows (`C1092`, `C1093`, `C1173`, `C1180`, `C1202`)[cite: 3].
-- **Text Standardization:** Cleaned `7` inconsistent `City` entries using `.str.strip().str.title()` across `Mumbai` (`69`), `Delhi` (`66`), `Bengaluru` (`45`), `Lucknow` (`36`), and `Ghaziabad` (`34`)[cite: 3].
-- **Missing Values Imputed:** Filled `NaN` values in `Employment_Type` (`5` -> mode `Salaried`), `Monthly_Income` (`5` -> median `43500.0`), `Tenure_Years` (`5` -> median `4.6`), and `Monthly_Transactions` (`6` -> median `27.0`)[cite: 3].
-- **Impossible Age Fixed:** Replaced out-of-range `Age` values (`-27` in `C1150` and `212` in `C1134`) with valid median age (`37.0`)[cite: 3].
-
-## 4. Key Analytical Findings
-- **Balance by City:** Mean `Avg_Monthly_Balance` is highest in `Ghaziabad` (`₹64,785.29`, median `₹61,500`) and `Bengaluru` (`₹63,022.22`, median `₹54,000`), followed by `Lucknow` (`₹61,680.56`), `Mumbai` (`₹57,369.57`), and `Delhi` (`₹51,751.52`).
-- **Balance by Account Type:** `Current` accounts record the highest mean balance (`₹70,878.79`), followed by `Salary` (`₹62,194.52`), `Joint` (`₹54,115.38`), and `Savings` (`₹53,788.98`).
-- **Preferred Channel Usage:** `Mobile_App` (`115` customers, mean `28.00` monthly transactions) and `Net_Banking` (`66` customers, mean `₹64,401.52` balance) lead digital engagement, while `Branch` (`43`) and `ATM` (`26`) represent traditional usage.
-- **Correlation Drivers:** `Tenure_Years` (`r = +0.58`) and `Monthly_Income` (`r = +0.49`) show positive correlation with `Avg_Monthly_Balance`, whereas `Monthly_Transactions` (`r = +0.04`) and `Age` (`r = +0.04`) are weakly correlated and `Branch_Visits` (`r = -0.11`) has a slight negative correlation.
-
-## 5. Visualizations (`images/`)
-1. `images/01_customer_distribution_by_city.png` — Customer count across cities[cite: 19].
-2. `images/02_account_type_distribution.png` — Distribution of `Savings`, `Salary`, `Current`, and `Joint` accounts[cite: 19].
-3. `images/03_employment_type_distribution.png` — Customer breakdown by employment status[cite: 19].
-4. `images/04_preferred_banking_channel.png` — Preferred banking channel distribution (`Mobile_App`, `Net_Banking`, `Branch`, `ATM`)
+```
